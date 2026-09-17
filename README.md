@@ -1,5 +1,7 @@
 ## Hi there 👋
 
 :book: **Estudiante de ingenieria de sistemas**
+
 :oncoming_automobile: **fan de los autos y los deportes de motor**
-:futboll_ball: **entusiasta de la NFL y practicante de flag futbol**
+
+:futboll: **entusiasta de la NFL y practicante de flag futbol**
