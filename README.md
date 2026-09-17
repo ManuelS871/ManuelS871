@@ -4,4 +4,4 @@
 
 :oncoming_automobile: **fan de los autos y los deportes de motor**
 
-:futboll: **entusiasta de la NFL y practicante de flag futbol**
+:American_football: **entusiasta de la NFL y practicante de flag futbol**
