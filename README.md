@@ -4,6 +4,14 @@
 
 :oncoming_automobile: **fan de los autos y los deportes de motor**
 
+<p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/IEEE_logo.svg"
+       alt="IEEE"
+       width="70"
+       align="center"/>
+  &nbsp; <b>IEEE Member in Jarvis Lab research incubator</b>
+</p>
+
 ## 🛠️ Technologies
 
 ### Programming Languages
@@ -28,7 +36,7 @@
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45" height="45"/>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,unity&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=github" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="45" height="45"/>
