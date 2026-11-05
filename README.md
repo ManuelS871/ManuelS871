@@ -1,4 +1,8 @@
-## Hi there 👋
+<h1 align="center"><img width="671" height="86" alt="ascii-art-text(1)" src="https://github.com/user-attachments/assets/5a93cd40-c674-4bf8-92fd-266dcd49aaed" /></h1>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=systems+engineering+Student;Full+Stack+Web+Developer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+</p>
 
 :book: **Estudiante de ingenieria de sistemas**
 
