@@ -16,6 +16,10 @@
   &nbsp; <b>IEEE Member in Jarvis Lab research incubator</b>
 </p>
 
+## 🔥 Streak Stats
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ManuelS871&theme=algolia" alt="ManuelS871"  /></p>
+
+
 ## 🛠️ Technologies
 
 ### Programming Languages
